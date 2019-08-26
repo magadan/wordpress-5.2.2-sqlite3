@@ -8,6 +8,8 @@ Latest version of Wordpress Agust 2019
 Pls read:
 Its based https://darryldias.me/12/experience-wordpress-sqlite/
 
+Read: https://wordpress.org/plugins/sqlite-integration/
+
 To run:
 
 Go to your Apache2 Document root and 
