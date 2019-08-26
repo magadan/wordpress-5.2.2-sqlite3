@@ -30,3 +30,5 @@ After install process, go to plugins sqlite-integration and activate it !
 
 Enjoy
 
+Note: This project is for lab pourposes, using at production enviroment at your own risk. No garantee.
+
