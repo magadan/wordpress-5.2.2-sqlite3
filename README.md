@@ -26,5 +26,7 @@ apt-get install php-sqlite3
 
 Go to your http://ip
 
+After install process, go to plugins sqlite-integration and activate it !
+
 Enjoy
 
