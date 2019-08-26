@@ -3,7 +3,7 @@ Wordpres 5.2.2 sqlite3 flat database
 
 Its possible to run Wordpress without MySQL or MariaDB.
 
-Latest version of Wordpress Agust 2019
+Latest version of Wordpress August 2019
 
 Pls read:
 Its based https://darryldias.me/12/experience-wordpress-sqlite/
