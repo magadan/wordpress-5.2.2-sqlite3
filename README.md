@@ -18,11 +18,11 @@ cd /var/www/html
 
 git clone https://github.com/magadan/wordpress-5.2.2-sqlite3.git
 
-chown www-data -R *
-chgrp www-data -R *
-chmod 775 -R *  (pls read about wordpress file persmissions on ofificial website of wordpress)
-apt-get update
-apt-get install php-sqlite3
+chown www-data -R *<br>
+chgrp www-data -R *<br>
+chmod 775 -R *  (pls read about wordpress file persmissions on ofificial website of wordpress)<br>
+apt-get update<br>
+apt-get install php-sqlite3<br><br>
 
 Go to your http://ip
 
